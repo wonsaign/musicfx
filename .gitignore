@@ -1,0 +1,14 @@
+/target/
+/logs/
+/.settings/
+.project
+.classpath
+~*
+*bak
+/bin/
+.DS_Store
+/.idea/
+*.versionsBackup
+*.iml
+
+
